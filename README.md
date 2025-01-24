@@ -1,4 +1,8 @@
 <img width="945" alt="image" src="https://github.com/user-attachments/assets/9d33e641-72ea-463f-b1da-ff8a1ea8a461" />
+
+
+ **[Live Demo](https://ocean2024d.github.io/Bistro-ThemeForest-Exercise/)**
+
 # The Gourmet Garden
 
 ## 📖 Introduction
